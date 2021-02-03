@@ -105765,7 +105765,7 @@ var map = new _ol2.Map({
     source: new source.Vector({
       features: convertedList
     }),
-    style: oldLocationStyle
+    style: newLocationStyle
   })],
   view: new _ol2.View({
     center: (0, _proj.fromLonLat)([110.596, -7.97222]),
@@ -105804,7 +105804,7 @@ var map = new _ol2.Map({
 //
 
 listCoordinate.forEach(function (value, index, array) {
-  var container = (0, _jquery.default)("<div>".concat(index, "</div>"));
+  var container = (0, _jquery.default)("\n        <div class=\"popup\">\n            No: ".concat(index + 1, "<br/>\n            <a href=\"http://www.google.com/maps/place/").concat(value[1], ",").concat(value[0], "\">Map</a>\n        </div>\n    "));
   (0, _jquery.default)('#map').after(container);
   var overlay = new _ol2.Overlay({
     element: container.get(0),
@@ -105814,7 +105814,7 @@ listCoordinate.forEach(function (value, index, array) {
     }
   });
   map.addOverlay(overlay);
-  overlay.setPosition((0, _proj.fromLonLat)(value));
+  overlay.setPosition((0, _proj.fromLonLat)([value[0] + 0.0002, value[1] + 0.0002]));
 });
 },{"ol/ol.css":"node_modules/ol/ol.css","ol":"node_modules/ol/index.js","ol/source/OSM":"node_modules/ol/source/OSM.js","ol/proj":"node_modules/ol/proj.js","ol/layer":"node_modules/ol/layer.js","ol/source":"node_modules/ol/source.js","ol/geom":"node_modules/ol/geom.js","ol/style":"node_modules/ol/style.js","jquery":"node_modules/jquery/dist/jquery.js"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
@@ -105844,7 +105844,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "45279" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "44047" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

@@ -65,7 +65,6 @@ var convertedList = listCoordinate.map(function (value, index, array) {
     });
 });
 
-
 const map = new Map({
     target: 'map',
     layers: [
@@ -76,7 +75,7 @@ const map = new Map({
             source: new source.Vector({
                 features: convertedList
             }),
-            style: oldLocationStyle
+            style: newLocationStyle
         }),
     ],
     view: new View({
@@ -118,7 +117,12 @@ const map = new Map({
 // });
 //
 listCoordinate.forEach(function (value, index, array) {
-    var container = $(`<div>${index}</div>`);
+    var container = $(`
+        <div class="popup">
+            No: ${index + 1}<br/>
+            <a href="http://www.google.com/maps/place/${value[1]},${value[0]}">Map</a>
+        </div>
+    `);
     $('#map').after(container);
     var overlay = new Overlay({
         element: container.get(0),
@@ -128,6 +132,6 @@ listCoordinate.forEach(function (value, index, array) {
         }
     });
     map.addOverlay(overlay);
-    overlay.setPosition(fromLonLat(value));
+    overlay.setPosition(fromLonLat([value[0]+0.0002,value[1]+0.0002]));
 });
 
