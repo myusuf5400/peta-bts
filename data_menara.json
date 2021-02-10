@@ -1,0 +1,1782 @@
+{
+  "Gedangsari": [
+    {
+      "num": 1,
+      "kecamatan": "Gedangsari",
+      "lat": "-7.884806",
+      "long": "110.586917",
+      "struktur": "3 KAKI",
+      "tinggi": "55"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Gedangsari",
+      "lat": "-7.84991",
+      "long": "110.59041",
+      "struktur": "3 KAKI",
+      "tinggi": "61"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Gedangsari",
+      "lat": "-7.85757",
+      "long": "110.60013",
+      "struktur": "Pole",
+      "tinggi": "6"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Gedangsari",
+      "lat": "-7.84958",
+      "long": "110.58966",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Gedangsari",
+      "lat": "-7.88305",
+      "long": "110.57574",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Girisubo": [
+    {
+      "num": 1,
+      "kecamatan": "Girisubo",
+      "lat": "-8.15132",
+      "long": "110.71094",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Girisubo",
+      "lat": "-8.16692",
+      "long": "110.78793",
+      "struktur": "3 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Girisubo",
+      "lat": "-8.15978",
+      "long": "110.76669",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Girisubo",
+      "lat": "-8.14277",
+      "long": "110.77138",
+      "struktur": "4 KAKI",
+      "tinggi": "62"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Girisubo",
+      "lat": "-8.14288",
+      "long": "110.77133",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Girisubo",
+      "lat": "-8.166",
+      "long": "110.76844",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Girisubo",
+      "lat": "-8.16827",
+      "long": "110.81032",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Girisubo",
+      "lat": "-8.15188",
+      "long": "110.71172",
+      "struktur": "4 KAKI",
+      "tinggi": "62"
+    }
+  ],
+  "Karangmojo": [
+    {
+      "num": 1,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.99682",
+      "long": "110.51300",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.96008",
+      "long": "110.69577",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.938028",
+      "long": "110.639833",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.89286",
+      "long": "110.6903",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.9292",
+      "long": "110.64573",
+      "struktur": "COMBAT",
+      "tinggi": "15"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.92926",
+      "long": "110.646",
+      "struktur": "4 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.924166",
+      "long": "110.64125",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.95915",
+      "long": "110.63642",
+      "struktur": "3 KAKI",
+      "tinggi": "61"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.95403",
+      "long": "110.679",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.923875",
+      "long": "110.686369",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.93933",
+      "long": "110.62491",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 12,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.97124",
+      "long": "110.66959",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 13,
+      "kecamatan": "Karangmojo",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 14,
+      "kecamatan": "Karangmojo",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 15,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.89303",
+      "long": "110.69097",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 16,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.95765",
+      "long": "110.64414",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 17,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.89511",
+      "long": "110.68938",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 18,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.95242",
+      "long": "110.67752",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 19,
+      "kecamatan": "Karangmojo",
+      "lat": "-7.89952",
+      "long": "110.689",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Ngawen": [
+    {
+      "num": 1,
+      "kecamatan": "Ngawen",
+      "lat": "-7.83897",
+      "long": "110.70056",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Ngawen",
+      "lat": "-7.81661",
+      "long": "110.72069",
+      "struktur": "COMBAT",
+      "tinggi": "32"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Ngawen",
+      "lat": "-7.79555",
+      "long": "110.67063",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Ngawen",
+      "lat": "-7.82161",
+      "long": "110.72408",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Ngawen",
+      "lat": "-7.83768",
+      "long": "110.70018",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Ngawen",
+      "lat": "-7.84919",
+      "long": "110.66102",
+      "struktur": "3 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Ngawen",
+      "lat": "-7.8166",
+      "long": "110.7215",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Ngawen",
+      "lat": "-7.82448",
+      "long": "110.68851",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Ngawen",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Ngawen",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    }
+  ],
+  "Nglipar": [
+    {
+      "num": 1,
+      "kecamatan": "Nglipar",
+      "lat": null,
+      "long": null,
+      "struktur": "SST",
+      "tinggi": "71"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Nglipar",
+      "lat": "-7.86164",
+      "long": "110.63993",
+      "struktur": "3 KAKI",
+      "tinggi": "62"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Nglipar",
+      "lat": "-7.88005",
+      "long": "110.62115",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Nglipar",
+      "lat": "-7.87983",
+      "long": "110.62119",
+      "struktur": "4 KAKI",
+      "tinggi": "92"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Nglipar",
+      "lat": "-7.90054",
+      "long": "110.61644",
+      "struktur": "3 KAKI",
+      "tinggi": "61"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Nglipar",
+      "lat": "-7.87982",
+      "long": "110.62133",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Nglipar",
+      "lat": "-7.84891",
+      "long": "110.66158",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Paliyan": [
+    {
+      "num": 1,
+      "kecamatan": "Paliyan",
+      "lat": "-7.99878",
+      "long": "110.5134",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Paliyan",
+      "lat": "-7.98009",
+      "long": "110.53944",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Paliyan",
+      "lat": "-8.01113",
+      "long": "110.55402",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Paliyan",
+      "lat": "-8.06766",
+      "long": "110.55044",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Paliyan",
+      "lat": "-8.00069",
+      "long": "110.51338",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Paliyan",
+      "lat": "-7.98191",
+      "long": "110.53877",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Paliyan",
+      "lat": "-8.06975",
+      "long": "110.55066",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Paliyan",
+      "lat": "-8.0006",
+      "long": "110.51279",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Paliyan",
+      "lat": "-8.04654",
+      "long": "110.51829",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Paliyan",
+      "lat": "-8.0006",
+      "long": "110.5122",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Paliyan",
+      "lat": "-8.04575",
+      "long": "110.51972",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Panggang": [
+    {
+      "num": 1,
+      "kecamatan": "Panggang",
+      "lat": "-7.97295",
+      "long": "110.41676",
+      "struktur": "3 KAKI",
+      "tinggi": "45"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Panggang",
+      "lat": "-8.01714",
+      "long": "110.42043",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Panggang",
+      "lat": "-8.01848",
+      "long": "110.4216",
+      "struktur": "3 KAKI",
+      "tinggi": "65"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Panggang",
+      "lat": "-8.07102",
+      "long": "110.45447",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Panggang",
+      "lat": "-8.01721",
+      "long": "110.42062",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Panggang",
+      "lat": "-8.0355",
+      "long": "110.46705",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Panggang",
+      "lat": "-7.97311",
+      "long": "110.41402",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Panggang",
+      "lat": "-8.01444",
+      "long": "110.42061",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Panggang",
+      "lat": "-8.03342",
+      "long": "110.44179",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Panggang",
+      "lat": "-8.03658",
+      "long": "110.46819",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Patuk": [
+    {
+      "num": 1,
+      "kecamatan": "Patuk",
+      "lat": "-7.8411",
+      "long": "110.48765",
+      "struktur": "3 KAKI",
+      "tinggi": "65"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Patuk",
+      "lat": "-7.82833",
+      "long": "110.55046",
+      "struktur": "4 KAKI",
+      "tinggi": "45"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Patuk",
+      "lat": "-7.87667",
+      "long": "110.54009",
+      "struktur": "3 KAKI",
+      "tinggi": "65"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Patuk",
+      "lat": "-7.87962",
+      "long": "110.54433",
+      "struktur": "4 KAKI",
+      "tinggi": "60"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Patuk",
+      "lat": "-7.846158",
+      "long": "110.481531",
+      "struktur": "3 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Patuk",
+      "lat": "-7.87827",
+      "long": "110.54111",
+      "struktur": "3 KAKI",
+      "tinggi": "60"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Patuk",
+      "lat": "-7.87869",
+      "long": "110.541",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Patuk",
+      "lat": "-7.83713",
+      "long": "110.520472",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Patuk",
+      "lat": "-7.84236",
+      "long": "110.486",
+      "struktur": "4 KAKI",
+      "tinggi": "35"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Patuk",
+      "lat": "-7.86492",
+      "long": "110.51",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Patuk",
+      "lat": "-7.83669",
+      "long": "110.52083",
+      "struktur": "4 KAKI",
+      "tinggi": "82"
+    },
+    {
+      "num": 12,
+      "kecamatan": "Patuk",
+      "lat": "-7.864",
+      "long": "110.50933",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 13,
+      "kecamatan": "Patuk",
+      "lat": "-7.87797",
+      "long": "110.54161",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 14,
+      "kecamatan": "Patuk",
+      "lat": "-7.835933",
+      "long": "110.519928",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 15,
+      "kecamatan": "Patuk",
+      "lat": "-7.87754",
+      "long": "110.558",
+      "struktur": "4 KAKI",
+      "tinggi": "62"
+    }
+  ],
+  "Playen": [
+    {
+      "num": 1,
+      "kecamatan": "Playen",
+      "lat": null,
+      "long": null,
+      "struktur": "SST",
+      "tinggi": "50"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Playen",
+      "lat": null,
+      "long": null,
+      "struktur": "",
+      "tinggi": "42"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Playen",
+      "lat": null,
+      "long": null,
+      "struktur": "",
+      "tinggi": "52"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Playen",
+      "lat": "-7.939347",
+      "long": "110.578407",
+      "struktur": "3 KAKI",
+      "tinggi": "35"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Playen",
+      "lat": "-7.957167",
+      "long": "110.530861",
+      "struktur": "3 KAKI",
+      "tinggi": "55"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Playen",
+      "lat": "-7.94525",
+      "long": "110.5505",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Playen",
+      "lat": "-7.9373",
+      "long": "110.57602",
+      "struktur": "3 KAKI",
+      "tinggi": "45"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Playen",
+      "lat": "-7.95614444",
+      "long": "110.52699722",
+      "struktur": "3 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Playen",
+      "lat": "-7.92639",
+      "long": "110.56516",
+      "struktur": "4 KAKI",
+      "tinggi": "30"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Playen",
+      "lat": "-7.91385",
+      "long": "110.53545",
+      "struktur": "4 KAKI",
+      "tinggi": "32"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Playen",
+      "lat": "-7.97002",
+      "long": "110.50463",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 12,
+      "kecamatan": "Playen",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 13,
+      "kecamatan": "Playen",
+      "lat": "-7.95212",
+      "long": "110.58636",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 14,
+      "kecamatan": "Playen",
+      "lat": "-7.94341",
+      "long": "110.5532",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 15,
+      "kecamatan": "Playen",
+      "lat": "-7.90633",
+      "long": "110.55369",
+      "struktur": "4 KAKI",
+      "tinggi": "25"
+    },
+    {
+      "num": 16,
+      "kecamatan": "Playen",
+      "lat": "-7.94506",
+      "long": "110.55048",
+      "struktur": "4 KAKI",
+      "tinggi": "37.5"
+    },
+    {
+      "num": 17,
+      "kecamatan": "Playen",
+      "lat": "-7.95738",
+      "long": "110.51908",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 18,
+      "kecamatan": "Playen",
+      "lat": "-7.91165",
+      "long": "110.5582",
+      "struktur": "4 KAKI",
+      "tinggi": "20"
+    },
+    {
+      "num": 19,
+      "kecamatan": "Playen",
+      "lat": "-7.92611",
+      "long": "110.50219",
+      "struktur": "4 KAKI",
+      "tinggi": "62"
+    },
+    {
+      "num": 20,
+      "kecamatan": "Playen",
+      "lat": "-7.98447",
+      "long": "110.46416",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 21,
+      "kecamatan": "Playen",
+      "lat": "-7.95109",
+      "long": "110.5843",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 22,
+      "kecamatan": "Playen",
+      "lat": "-7.950361",
+      "long": "110.56705",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 23,
+      "kecamatan": "Playen",
+      "lat": "-7.93474",
+      "long": "110.51554",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 24,
+      "kecamatan": "Playen",
+      "lat": "-7.94473",
+      "long": "110.55",
+      "struktur": "3 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 25,
+      "kecamatan": "Playen",
+      "lat": "-7.93333",
+      "long": "110.51537",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    }
+  ],
+  "Ponjong": [
+    {
+      "num": 1,
+      "kecamatan": "Ponjong",
+      "lat": "-7.97225",
+      "long": "110.71263",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Ponjong",
+      "lat": "-7.94102",
+      "long": "110.77058",
+      "struktur": "3 KAKI",
+      "tinggi": "71"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Ponjong",
+      "lat": "-8.01944",
+      "long": "110.74361",
+      "struktur": "3 KAKI",
+      "tinggi": "61"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Ponjong",
+      "lat": "-8.0695",
+      "long": "110.46398",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Ponjong",
+      "lat": "-7.94023",
+      "long": "110.76617",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Ponjong",
+      "lat": "-7.93042",
+      "long": "110.7142662",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Ponjong",
+      "lat": "-8.00204",
+      "long": "110.70678",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Ponjong",
+      "lat": "-7.97377",
+      "long": "110.71228",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Ponjong",
+      "lat": "-8.021",
+      "long": "110.74054",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Ponjong",
+      "lat": "-7.97192",
+      "long": "110.71311",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Ponjong",
+      "lat": "-8.01412",
+      "long": "110.742",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Purwosari": [
+    {
+      "num": 1,
+      "kecamatan": "Purwosari",
+      "lat": null,
+      "long": null,
+      "struktur": "SST",
+      "tinggi": "72"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Purwosari",
+      "lat": "-8.02547",
+      "long": "110.36811",
+      "struktur": "3 KAKI",
+      "tinggi": "71"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Purwosari",
+      "lat": "-7.99472",
+      "long": "110.37255",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Purwosari",
+      "lat": "-8.01716",
+      "long": "110.334833",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Purwosari",
+      "lat": "-8.01713",
+      "long": "110.334476",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Purwosari",
+      "lat": "-8.017122",
+      "long": "110.334471",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Purwosari",
+      "lat": "-7.99731",
+      "long": "110.34881",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Purwosari",
+      "lat": "-8.02549",
+      "long": "110.36849",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Purwosari",
+      "lat": "-7.99433",
+      "long": "110.37397",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Purwosari",
+      "lat": "-799688",
+      "long": "110.34945",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    }
+  ],
+  "Rongkop": [
+    {
+      "num": 1,
+      "kecamatan": "Rongkop",
+      "lat": "-8.08366",
+      "long": "110.76058",
+      "struktur": "3 KAKI",
+      "tinggi": "71"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Rongkop",
+      "lat": "-8.05466",
+      "long": "110.75372",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Rongkop",
+      "lat": "-8.05063",
+      "long": "110.75472",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Rongkop",
+      "lat": "-8.11016",
+      "long": "110.76179",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Rongkop",
+      "lat": "-8.07918",
+      "long": "110.7656",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Rongkop",
+      "lat": "-8.08333",
+      "long": "110.76319",
+      "struktur": "4 KAKI",
+      "tinggi": "92"
+    }
+  ],
+  "Saptosari": [
+    {
+      "num": 1,
+      "kecamatan": "Saptosari",
+      "lat": "-8.071527",
+      "long": "110.466333",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Saptosari",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Saptosari",
+      "lat": "-8.03531",
+      "long": "110.48728",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Saptosari",
+      "lat": "-8.09076",
+      "long": "110.52279",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Saptosari",
+      "lat": "-8.07627",
+      "long": "110.48328",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Saptosari",
+      "lat": "-8.046",
+      "long": "110.516",
+      "struktur": "3 KAKI",
+      "tinggi": "70"
+    }
+  ],
+  "Semanu": [
+    {
+      "num": 1,
+      "kecamatan": "Semanu",
+      "lat": "-7.99948",
+      "long": "110.65607",
+      "struktur": "3 KAKI",
+      "tinggi": "54"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Semanu",
+      "lat": "-8014139",
+      "long": "110672806",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Semanu",
+      "lat": "-8.06183",
+      "long": "110.6553",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Semanu",
+      "lat": "-8.017583",
+      "long": "110.7065",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Semanu",
+      "lat": "-7.98581",
+      "long": "110.63714",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Semanu",
+      "lat": "-8.07094",
+      "long": "110.66772",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Semanu",
+      "lat": "-8.0138",
+      "long": "110.67552",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Semanu",
+      "lat": "-8.03415",
+      "long": "110.64725",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Semanu",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Semanu",
+      "lat": "-8.00302",
+      "long": "110.65141",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Semanu",
+      "lat": "-8.05831",
+      "long": "110.70629",
+      "struktur": "4 KAKI",
+      "tinggi": "82"
+    },
+    {
+      "num": 12,
+      "kecamatan": "Semanu",
+      "lat": "-7.99875",
+      "long": "110.65272",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 13,
+      "kecamatan": "Semanu",
+      "lat": "-7.99666",
+      "long": "110.653",
+      "struktur": "3 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 14,
+      "kecamatan": "Semanu",
+      "lat": "-8.01486",
+      "long": "110.629",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 15,
+      "kecamatan": "Semanu",
+      "lat": "-8.01545",
+      "long": "110.62846",
+      "struktur": "4 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 16,
+      "kecamatan": "Semanu",
+      "lat": "-7.99614",
+      "long": "110.653556",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Semin": [
+    {
+      "num": 1,
+      "kecamatan": "Semin",
+      "lat": "-7.83272",
+      "long": "110.7502",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Semin",
+      "lat": "-7.86516",
+      "long": "110.73625",
+      "struktur": "3 KAKI",
+      "tinggi": "71"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Semin",
+      "lat": "-7.86519",
+      "long": "110.737",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Semin",
+      "lat": "-7.85819",
+      "long": "110.77008",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Semin",
+      "lat": "-7.86287",
+      "long": "110.70821",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Semin",
+      "lat": "-7.85893",
+      "long": "110.77054",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Semin",
+      "lat": "-7.852319",
+      "long": "110.70321",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Semin",
+      "lat": "-7.86485",
+      "long": "110.73449",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Semin",
+      "lat": "-7.86196",
+      "long": "110.727",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ],
+  "Tanjungsari": [
+    {
+      "num": 1,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.06449",
+      "long": "110.57734",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.10138",
+      "long": "110.56155",
+      "struktur": "3 KAKI",
+      "tinggi": "65"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.12842",
+      "long": "110.5507",
+      "struktur": "3 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.06719",
+      "long": "110.59419",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.10137",
+      "long": "110.56094",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.05836",
+      "long": "110.61647",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.1283",
+      "long": "110.55099",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.09721",
+      "long": "110.60085",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Tanjungsari",
+      "lat": "-7.94523",
+      "long": "110.76517",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.06462",
+      "long": "110.57709",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Tanjungsari",
+      "lat": "-8.05719",
+      "long": "110.615",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    }
+  ],
+  "Tepus": [
+    {
+      "num": 1,
+      "kecamatan": "Tepus",
+      "lat": "-8.12457",
+      "long": "110.64171",
+      "struktur": "3 KAKI",
+      "tinggi": "71"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Tepus",
+      "lat": "-8.09224",
+      "long": "110.62675",
+      "struktur": "4 KAKI",
+      "tinggi": "70"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Tepus",
+      "lat": "-8.13789",
+      "long": "110.67722",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Tepus",
+      "lat": "-8.14394",
+      "long": "110.60412",
+      "struktur": "4 KAKI",
+      "tinggi": "62"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Tepus",
+      "lat": "-8.08905",
+      "long": "110.62763",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Tepus",
+      "lat": "-8.12647",
+      "long": "110.64157",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Tepus",
+      "lat": "-8.08931",
+      "long": "110627",
+      "struktur": "3 KAKI",
+      "tinggi": "70"
+    }
+  ],
+  "Wonosari": [
+    {
+      "num": 1,
+      "kecamatan": "Wonosari",
+      "lat": null,
+      "long": null,
+      "struktur": "SST",
+      "tinggi": "71"
+    },
+    {
+      "num": 2,
+      "kecamatan": "Wonosari",
+      "lat": null,
+      "long": null,
+      "struktur": "",
+      "tinggi": "60"
+    },
+    {
+      "num": 3,
+      "kecamatan": "Wonosari",
+      "lat": null,
+      "long": null,
+      "struktur": "4 KAKI",
+      "tinggi": "32"
+    },
+    {
+      "num": 4,
+      "kecamatan": "Wonosari",
+      "lat": "-7.9623",
+      "long": "110.61349",
+      "struktur": "3 KAKI",
+      "tinggi": "64"
+    },
+    {
+      "num": 5,
+      "kecamatan": "Wonosari",
+      "lat": "-7.97887",
+      "long": "110.60029",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 6,
+      "kecamatan": "Wonosari",
+      "lat": "-7.98319",
+      "long": "110.61859",
+      "struktur": "3 KAKI",
+      "tinggi": "45"
+    },
+    {
+      "num": 7,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96428",
+      "long": "110.61855",
+      "struktur": "3 KAKI",
+      "tinggi": "60"
+    },
+    {
+      "num": 8,
+      "kecamatan": "Wonosari",
+      "lat": "-7.94206",
+      "long": "110.60538",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 9,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96323056",
+      "long": "110.59004167",
+      "struktur": "3 KAKI",
+      "tinggi": "36"
+    },
+    {
+      "num": 10,
+      "kecamatan": "Wonosari",
+      "lat": "-7.923500",
+      "long": "110.602222",
+      "struktur": "3 KAKI",
+      "tinggi": "50"
+    },
+    {
+      "num": 11,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96876",
+      "long": "110.59688",
+      "struktur": "3 KAKI",
+      "tinggi": "54"
+    },
+    {
+      "num": 12,
+      "kecamatan": "Wonosari",
+      "lat": "-7.973222",
+      "long": "110.60861",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 13,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96563",
+      "long": "110.612278",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 14,
+      "kecamatan": "Wonosari",
+      "lat": "-7.960050",
+      "long": "110.602810",
+      "struktur": "MONOPOLE",
+      "tinggi": "32"
+    },
+    {
+      "num": 15,
+      "kecamatan": "Wonosari",
+      "lat": "-8.01869",
+      "long": "110.58797",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 16,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96037",
+      "long": "110.59932",
+      "struktur": "MONOPOLE",
+      "tinggi": "32"
+    },
+    {
+      "num": 17,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96694",
+      "long": "110.60469",
+      "struktur": "4 KAKI",
+      "tinggi": "55"
+    },
+    {
+      "num": 18,
+      "kecamatan": "Wonosari",
+      "lat": "-7.9735",
+      "long": "110.60997",
+      "struktur": "3 KAKI",
+      "tinggi": "61"
+    },
+    {
+      "num": 19,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96972",
+      "long": "110.59679",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 20,
+      "kecamatan": "Wonosari",
+      "lat": "-7.98261",
+      "long": "110.6189",
+      "struktur": "3 KAKI",
+      "tinggi": "52"
+    },
+    {
+      "num": 21,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96386",
+      "long": "110.563",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 22,
+      "kecamatan": "Wonosari",
+      "lat": "-7.99419",
+      "long": "110.59263",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 23,
+      "kecamatan": "Wonosari",
+      "lat": "-7.97289",
+      "long": "110.5853",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 24,
+      "kecamatan": "Wonosari",
+      "lat": "-8.01782",
+      "long": "110.58766",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 25,
+      "kecamatan": "Wonosari",
+      "lat": "-7.92158",
+      "long": "110.60355",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 26,
+      "kecamatan": "Wonosari",
+      "lat": "-7.9832",
+      "long": "110.6195",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 27,
+      "kecamatan": "Wonosari",
+      "lat": "-7.993611",
+      "long": "110.593611",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 28,
+      "kecamatan": "Wonosari",
+      "lat": "-7.96883",
+      "long": "110.59187",
+      "struktur": "4 KAKI",
+      "tinggi": "30"
+    },
+    {
+      "num": 29,
+      "kecamatan": "Wonosari",
+      "lat": "-7.982239",
+      "long": "110.5969",
+      "struktur": "4 KAKI",
+      "tinggi": "42"
+    },
+    {
+      "num": 30,
+      "kecamatan": "Wonosari",
+      "lat": "-8.01775",
+      "long": "110.58688",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    },
+    {
+      "num": 31,
+      "kecamatan": "Wonosari",
+      "lat": "-7.98878",
+      "long": "110.577",
+      "struktur": "3 KAKI",
+      "tinggi": "51"
+    },
+    {
+      "num": 32,
+      "kecamatan": "Wonosari",
+      "lat": "-7.97222",
+      "long": "110.596",
+      "struktur": "4 KAKI",
+      "tinggi": "72"
+    }
+  ]
+}

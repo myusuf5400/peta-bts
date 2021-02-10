@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "parcel index.html",
     "start": "./node_modules/parcel-bundler/bin/cli.js index.html",
     "build": "parcel build --public-url . index.html"
   },
@@ -12,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "firebase": "^8.2.6",
     "jquery": "^3.5.1",
     "ol": "^6.5.0",
     "parcel-bundler": "^1.12.4"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
